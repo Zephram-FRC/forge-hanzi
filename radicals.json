@@ -1,0 +1,514 @@
+{
+  "mu": {
+    "meaning": "tree; wood",
+    "pinyin": "mu",
+    "file": "Images/Characters/mu.png",
+    "image": "Images/Symbol ones/Unit 1/木-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/mu.png",
+    "description": "A tall central trunk stands firm, with two shorter diagonal strokes spreading outward as branches and a hooked stroke rooting downward."
+  },
+  "bing": {
+    "meaning": "ice-marker",
+    "pinyin": "bing",
+    "file": "Images/Characters/bing.png",
+    "image": "Images/Symbol ones/Unit 1/冫-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/bing.png",
+    "description": "Two thin, slanted strokes drop like icicles from a frozen ledge, marking the presence of cold."
+  },
+  "shui": {
+    "meaning": "water; stream",
+    "pinyin": "shui",
+    "file": "Images/Characters/shui.png",
+    "image": "Images/Symbol ones/Unit 1/水-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/shui.png",
+    "description": "A long vertical line flows downward as the main current, with shorter flicks to each side and a final dot suggesting a stray droplet."
+  },
+  "huo": {
+    "meaning": "fire; flame",
+    "pinyin": "huo",
+    "file": "Images/Characters/huo.png",
+    "image": "Images/Symbol ones/Unit 1/火-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/huo.png",
+    "description": "A central spark flares into two sweeping curved strokes like dancing flames, with a falling stroke beneath hinting at embers."
+  },
+  "shan": {
+    "meaning": "mountain; hill",
+    "pinyin": "shan",
+    "file": "Images/Characters/shan.png",
+    "image": "Images/Symbol ones/Unit 1/山-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/shan.png",
+    "description": "Three vertical peaks rise side by side, the center slightly taller, forming a rugged mountain silhouette."
+  },
+  "shi": {
+    "meaning": "stone; rock",
+    "pinyin": "shi",
+    "file": "Images/Characters/shi.png",
+    "image": "Images/Symbol ones/Unit 1/石-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/shi.png",
+    "description": "A short, angled top stroke forms a rocky cliff edge, above a heavy square base that embodies the solidity of stone."
+  },
+  "tian": {
+    "meaning": "field; farmland",
+    "pinyin": "tian",
+    "file": "Images/Characters/tian.png",
+    "image": "Images/Symbol ones/Unit 1/田-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/tian.png",
+    "description": "A large outer square frames the land, with two vertical and two horizontal lines dividing it into four neat plots."
+  },
+  "ri": {
+    "meaning": "sun; day",
+    "pinyin": "ri",
+    "file": "Images/Characters/ri.png",
+    "image": "Images/Symbol ones/Unit 1/日-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/ri.png",
+    "description": "A bold square outline encloses a shorter central stroke, focusing the intensity of the sun’s core."
+  },
+  "yue": {
+    "meaning": "moon; month",
+    "pinyin": "yue",
+    "file": "Images/Characters/yue.png",
+    "image": "Images/Symbol ones/Unit 1/月-bronze.svg",
+    "ety": "Images/Gpt/Unit 1/yue.png",
+    "description": "A gently curved left stroke suggests a crescent shape, while internal lines mark lunar phases across the month."
+  },
+  "qing": {
+    "meaning": "green; clear",
+    "pinyin": "qing",
+    "file": "Images/Characters/qing.png",
+    "image": "Images/Symbol ones/Unit 1/青-bronze.svg",
+    "ety": "Images/Gpt/Unit 1/qing.png",
+    "description": "Two sweeping curves at the top gesture like fresh shoots, balanced by a symmetrical base that grounds clarity and brightness."
+  },
+  "bai": {
+    "meaning": "pure; white",
+    "pinyin": "bai",
+    "file": "Images/Characters/bai.png",
+    "image": "Images/Symbol ones/Unit 1/白-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/bai.png",
+    "description": "An open top stroke widens space above, while a small dot inside concentrates the essence of purity."
+  },
+  "yu": {
+    "meaning": "rain",
+    "pinyin": "yu",
+    "file": "Images/Characters/yu.png",
+    "image": "Images/Symbol ones/Unit 1/雨-oracle.svg",
+    "ety": "Images/Gpt/Unit 1/yu.png",
+    "description": "A heavy horizontal line holds like a cloud, with four evenly spaced vertical strokes dropping below as raindrops."
+  },
+  "ren": {
+    "meaning": "person; human",
+    "pinyin": "ren",
+    "file": "Images/Characters/Unit 2/ren.png",
+    "image": "Images/Symbol ones/Unit 2/人-bronze-shang.svg",
+    "ety": "Images/Gpt/Unit 2/ren.png",
+    "description": "Two slanting strokes meet at the top and flare apart at the base, evoking the stance of a standing person."
+  },
+  "yan_three": {
+    "meaning": "speech; to speak",
+    "pinyin": "yan",
+    "file": "Images/Characters/Unit 2/yan_three.png",
+    "image": "Images/Symbol ones/Unit 2/言-bronze.svg",
+    "ety": "Images/Gpt/Unit 2/yan_three.png",
+    "description": "A rectangular ‘mouth’ sits below five horizontal lines, the lines symbolizing the flow of spoken words."
+  },
+  "nu": {
+    "meaning": "woman; female",
+    "pinyin": "nu",
+    "file": "Images/Characters/Unit 2/nu.png",
+    "image": "Images/Symbol ones/Unit 2/女-oracle.svg",
+    "ety": "Images/Gpt/Unit 2/nu.png",
+    "description": "A bent figure kneels with arms crossed, the curve of the back and limbs indicating traditional female posture."
+  },
+  "zi": {
+    "meaning": "child; son",
+    "pinyin": "zi",
+    "file": "Images/Characters/Unit 2/zi.png",
+    "image": "Images/Symbol ones/Unit 2/子-oracle.svg",
+    "ety": "Images/Gpt/Unit 2/zi.png",
+    "description": "A small horizontal lid and curled legs form the outline of a child wrapped or cradled in swaddling."
+  },
+  "shou": {
+    "meaning": "hand; to hold",
+    "pinyin": "shou",
+    "file": "Images/Characters/Unit 2/shou.png",
+    "image": "Images/Symbol ones/Unit 2/手-bronze.svg",
+    "ety": "Images/Gpt/Unit 2/shou.png",
+    "description": "Four short strokes fan out from a vertical line like fingers, with a curved stroke at the base representing a palm."
+  },
+  "mu_two": {
+    "meaning": "eye",
+    "pinyin": "mu",
+    "file": "Images/Characters/Unit 2/mu_two.png",
+    "image": "Images/Symbol ones/Unit 2/目-oracle.svg",
+    "ety": "Images/Gpt/Unit 2/mu_two.png",
+    "description": "A rectangular frame encloses a central dot, the frame as eyelids and the dot as the pupil."
+  },
+  "kou": {
+    "meaning": "mouth; opening",
+    "pinyin": "kou",
+    "file": "Images/Characters/Unit 2/kou.png",
+    "image": "Images/Symbol ones/Unit 2/口-bronze-shang.svg",
+    "ety": "Images/Gpt/Unit 2/kou.png",
+    "description": "A perfect square with even sides, marking the boundary of an open mouth or entrance."
+  },
+  "wei": {
+    "meaning": "not yet; end",
+    "pinyin": "wei",
+    "file": "Images/Characters/Unit 2/wei.png",
+    "image": "Images/Symbol ones/Unit 2/未-bronze-shang.svg",
+    "ety": "Images/Gpt/Unit 2/weii.png",
+    "description": "Two horizontal strokes rise but don’t connect fully, and a vertical stroke stops short, showing incompletion."
+  },
+  "ge": {
+    "meaning": "spear; dagger-axe",
+    "pinyin": "ge",
+    "file": "Images/Characters/Unit 2/ge.png",
+    "image": "Images/Symbol ones/Unit 2/戈-oracle.svg",
+    "ety": "Images/Gpt/Unit 2/ge.png",
+    "description": "A straight shaft extends diagonally with a hooked blade affixed, illustrating the form of a dagger-axe."
+  },
+  "zhi": {
+    "meaning": "stop; to halt",
+    "pinyin": "zhi",
+    "file": "Images/Characters/Unit 2/zhi.png",
+    "image": "Images/Symbol ones/Unit 2/止-bronze-shang.svg",
+    "ety": "Images/Gpt/Unit 2/zhii.png",
+    "description": "A foot with four forward toes and a short heel stroke, the toes splayed to signal firm placement."
+  },
+  "mian": {
+    "meaning": "roof; house",
+    "pinyin": "mian",
+    "file": "Images/Characters/Unit 3/mian.png",
+    "image": "Images/Symbol ones/Unit 3/宀-oracle.svg",
+    "ety": "Images/Gpt/Unit 3/mian.png",
+    "description": "A gently arching stroke curves over two short vertical legs, forming the silhouette of a roof."
+  },
+  "guang": {
+    "meaning": "shelter; wide",
+    "pinyin": "guang",
+    "file": "Images/Characters/Unit 3/guang.png",
+    "image": "Images/Symbol ones/Unit 3/广-bronze.svg",
+    "ety": "Images/Gpt/Unit 3/guang.png",
+    "description": "A slanted roof slash opens widely to the right, supported by a short vertical leg, suggesting an open shelter."
+  },
+  "hu": {
+    "meaning": "door; household",
+    "pinyin": "hu",
+    "file": "Images/Characters/Unit 3/hu.png",
+    "image": "Images/Symbol ones/Unit 3/戶-oracle.svg",
+    "ety": "Images/Gpt/Unit 3/hu.png",
+    "description": "A rectangular panel tilts open on a single vertical hinge stroke, marking the entrance of a household."
+  },
+  "fang": {
+    "meaning": "square; direction",
+    "pinyin": "fang",
+    "file": "Images/Characters/Unit 3/fang.png",
+    "image": "Images/Symbol ones/Unit 3/方.PNG",
+    "ety": "Images/Gpt/Unit 3/fang.png",
+    "description": "A pointed stroke juts out from a square base, combining shape and orientation in one form."
+  },
+  "men": {
+    "meaning": "gate; door",
+    "pinyin": "men",
+    "file": "Images/Characters/Unit 3/men.png",
+    "image": "Images/Symbol ones/Unit 3/門-oracle.svg",
+    "ety": "Images/Gpt/Unit 3/men.png",
+    "description": "Two vertical posts enclose a pair of swinging panels, each panel marked by an inward taper."
+  },
+  "tu": {
+    "meaning": "earth; soil",
+    "pinyin": "tu",
+    "file": "Images/Characters/Unit 3/tu.png",
+    "image": "Images/Symbol ones/Unit 3/土-oracle.svg",
+    "ety": "Images/Gpt/Unit 3/tu.png",
+    "description": "A short horizontal cap rests atop a vertical stroke that anchors into a squat base, suggesting earth piled up."
+  },
+  "jin": {
+    "meaning": "towel; cloth",
+    "pinyin": "jin",
+    "file": "Images/Characters/Unit 3/jin.png",
+    "image": "Images/Symbol ones/Unit 3/巾-oracle.svg",
+    "ety": "",
+    "description": "A single vertical line drapes downward with two small side strokes, evoking a hanging cloth."
+  },
+  "che": {
+    "meaning": "cart; vehicle",
+    "pinyin": "che",
+    "file": "Images/Characters/Unit 3/che.png",
+    "image": "Images/Symbol ones/Unit 3/車-oracle.svg",
+    "ety": "Images/Gpt/Unit 3/jin.png",
+    "description": "A rectangular frame sits on four short legs, each leg ending in a small circle to suggest wheels."
+  },
+  "fu": {
+    "meaning": "mound; hill",
+    "pinyin": "fu",
+    "file": "Images/Characters/Unit 3/fu.png",
+    "image": "Images/Symbol ones/Unit 3/阜-seal.svg",
+    "ety": "Images/Gpt/Unit 3/fu.png",
+    "description": "A wide horizontal cap sits atop two vertical legs, the cap sloping downward like the crest of a small hill and the legs rooting it into the ground."
+  },
+  "cao": {
+    "meaning": "grass; plant",
+    "pinyin": "cao",
+    "file": "Images/Characters/Unit 4/cao.png",
+    "image": "Images/Characters/Unit 4/cao.png",
+    "ety": "Images/Gpt/Unit 4/cao.png",
+    "description": "Three short diagonal strokes fan out across the top like blades of grass, while the two horizontal lines beneath bind them together as one clump."
+  },
+  "he": {
+    "meaning": "grain; cereal",
+    "pinyin": "he",
+    "file": "Images/Characters/Unit 4/he.png",
+    "image": "Images/Symbol ones/Unit 4/禾-bronze.svg",
+    "ety": "Images/Gpt/Unit 4/he.png",
+    "description": "A slanted stalk rises with a hooked tip, and pairs of small strokes branch off on either side like unfolding grain kernels."
+  },
+  "mi": {
+    "meaning": "rice; grain",
+    "pinyin": "mi",
+    "file": "Images/Characters/Unit 4/mi.png",
+    "image": "Images/Symbol ones/Unit 4/米-oracle.svg",
+    "ety": "Images/Gpt/Unit 4/mi.png",
+    "description": "A central vertical line anchored by a crossbar intersects two diagonal strokes on each side, suggesting scattered rice grains around a stalk."
+  },
+  "dou": {
+    "meaning": "bean; pea",
+    "pinyin": "dou",
+    "file": "Images/Characters/Unit 4/dou.png",
+    "image": "Images/Symbol ones/Unit 4/豆-oracle.svg",
+    "ety": "Images/Gpt/Unit 4/dou.png",
+    "description": "A rounded top sits above a rectangular container outlined by strokes, the form hinting at beans stored in a pod or vessel."
+  },
+  "li": {
+    "meaning": "to stand; erect",
+    "pinyin": "li",
+    "file": "Images/Characters/Unit 4/li.png",
+    "image": "Images/Symbol ones/Unit 4/立-oracle.svg",
+    "ety": "Images/Gpt/Unit 4/li.png",
+    "description": "A vertical spine rises through a short horizontal cap, flanked by two small side strokes like arms, forming the upright posture of a standing person."
+  },
+  "dao": {
+    "meaning": "knife; sword",
+    "pinyin": "dao",
+    "file": "Images/Characters/Unit 5/dao.png",
+    "image": "Images/Symbol ones/Unit 5/刀-bronze-shang.svg",
+    "ety": "",
+    "description": "A single curved stroke tapers to a sharp point, with a short perpendicular handle stroke at the base, evoking a blade on its haft."
+  },
+  "bi": {
+    "meaning": "spoon; ladle",
+    "pinyin": "bi",
+    "file": "Images/Characters/Unit 5/bi.png",
+    "image": "Images/Symbol ones/Unit 5/匕-bronze-shang.svg",
+    "ety": "",
+    "description": "A vertical line curves outward at its tip into a small bowl shape, resembling the scoop of a ladle on a handle."
+  },
+  "gong": {
+    "meaning": "bow",
+    "pinyin": "gong",
+    "file": "Images/Characters/Unit 5/gong.png",
+    "image": "Images/Symbol ones/Unit 5/弓-oracle.svg",
+    "ety": "",
+    "description": "A single elegant curve arches from end to end, forming the flexible limb of a bow ready to launch an arrow."
+  },
+  "mao": {
+    "meaning": "spear",
+    "pinyin": "mao",
+    "file": "Images/Characters/Unit 5/mao.png",
+    "image": "Images/Symbol ones/Unit 5/矛-bronze.svg",
+    "ety": "",
+    "description": "A long vertical shaft topped by a pointed triangle, the tip flaring outward like the head of a spear."
+  },
+  "ji": {
+    "meaning": "small table",
+    "pinyin": "ji",
+    "file": "Images/Characters/Unit 5/ji.png",
+    "image": "Images/Symbol ones/Unit 5/几-seal.svg",
+    "ety": "",
+    "description": "A curved horizontal line crowns a short vertical stroke, forming the tabletop and single leg of a small stand."
+  },
+  "gong_two": {
+    "meaning": "work; labor",
+    "pinyin": "gong",
+    "file": "Images/Characters/Unit 5/gong_two.png",
+    "image": "Images/Symbol ones/Unit 5/工-oracle.svg",
+    "ety": "",
+    "description": "Two horizontal strokes sandwich a single vertical line, suggesting the structured form of tools or craftsmanship."
+  },
+  "fang_five": {
+    "meaning": "right open box",
+    "pinyin": "fang",
+    "file": "Images/Characters/Unit 5/fang_five.png",
+    "image": "Images/Symbol ones/Unit 5/匚-oracle.svg",
+    "ety": "",
+    "description": "A right-angle stroke opens to the right and down, forming an open container or box shape."
+  },
+  "you_two": {
+    "meaning": "again; right hand",
+    "pinyin": "you",
+    "file": "Images/Characters/Unit 5/you_two.png",
+    "image": "Images/Symbol ones/Unit 2/手-bronze.svg",
+    "ety": "",
+    "description": "Four short strokes extend from a central axis like fingers, while a hook at the base marks the thumb of a right hand."
+  },
+  "ba": {
+    "meaning": "eight; to divide",
+    "pinyin": "ba",
+    "file": "Images/Characters/Unit 5/ba.png",
+    "image": "Images/Symbol ones/Unit 5/八-oracle.svg",
+    "ety": "",
+    "description": "Two diverging strokes start from a single point and split outward, visually dividing the space into two parts."
+  },
+  "jin_two": {
+    "meaning": "axe; catty",
+    "pinyin": "jin",
+    "file": "Images/Characters/Unit 5/jin_two.png",
+    "image": "Images/Symbol ones/Unit 5/斤-oracle.svg",
+    "ety": "",
+    "description": "A curved blade stroke sits above a short handle line, the blade’s angle suggesting the chopping action of an axe."
+  },
+  "gong_three": {
+    "meaning": "two hands; to hold",
+    "pinyin": "gong",
+    "file": "Images/Characters/Unit 5/gong_three.png",
+    "image": "Images/Symbol ones/Unit 5/廾-seal.svg",
+    "ety": "",
+    "description": "Two parallel horizontal strokes arch upward like cupped hands, ready to carry or hold an object."
+  },
+  "you_three": {
+    "meaning": "wine vessel; alcohol",
+    "pinyin": "you",
+    "file": "Images/Characters/Unit 6/you_three.png",
+    "image": "Images/Symbol ones/Unit 6/酉-bronze-shang.svg",
+    "ety": "",
+    "description": "A bulbous container sits atop a narrow stem, the rounded belly and narrowed neck evoking a wine vessel."
+  },
+  "yang": {
+    "meaning": "to rise; sunlight",
+    "pinyin": "yang",
+    "file": "Images/Characters/Unit 6/yang.png",
+    "image": "Images/Symbol ones/Unit 6/昜-oracle.svg",
+    "ety": "",
+    "description": "A horizontal line with radiating diagonal strokes above suggests the sun’s rays rising over the horizon."
+  },
+  "qi": {
+    "meaning": "steam; gas",
+    "pinyin": "qi",
+    "file": "Images/Characters/Unit 6/qi.png",
+    "image": "Images/Symbol ones/Unit 6/气-bronze-spring.svg",
+    "ety": "",
+    "description": "A swirling main stroke curls upward with small side flicks, capturing the drifting motion of steam or vapor."
+  },
+  "you_four": {
+    "meaning": "cause; from",
+    "pinyin": "you",
+    "file": "Images/Characters/Unit 6/you_four.png",
+    "image": "Images/Symbol ones/Unit 6/由-bronze.svg",
+    "ety": "",
+    "description": "A vertical line runs through a small box, indicating origin or source within a contained space."
+  },
+  "xin_two": {
+    "meaning": "heart; mind",
+    "pinyin": "xin",
+    "file": "Images/Characters/Unit 7/xin_two.png",
+    "image": "Images/Symbol ones/Unit 7/心-bronze-shang.svg",
+    "ety": "",
+    "description": "Four inward strokes converge toward the center, forming the core shape of a heart or mind."
+  },
+  "xin_three": {
+    "meaning": "emotion; feeling",
+    "pinyin": "xin",
+    "file": "Images/Characters/Unit 7/xin_three.png",
+    "image": "Images/Symbol ones/Unit 7/忄.PNG",
+    "ety": "",
+    "description": "Three vertical ticks lean slightly right, capturing the flow of emotion emanating from the heart."
+  },
+  "jin_three": {
+    "meaning": "now; present",
+    "pinyin": "jin",
+    "file": "Images/Characters/Unit 7/jin_three.png",
+    "image": "Images/Symbol ones/Unit 7/今-bronze.svg",
+    "ety": "",
+    "description": "A horizontal stroke shelters a person-like hook below, symbolizing the current moment under a roof of time."
+  },
+  "wang": {
+    "meaning": "to perish; death",
+    "pinyin": "wang",
+    "file": "Images/Characters/Unit 7/wang.png",
+    "image": "Images/Symbol ones/Unit 7/亡-oracle.svg",
+    "ety": "",
+    "description": "A small dot floats above a horizontal line and sweeping downward stroke, suggesting something lost or vanished."
+  },
+  "fei": {
+    "meaning": "not; wrong",
+    "pinyin": "fei",
+    "file": "Images/Characters/Unit 7/fei.png",
+    "image": "Images/Symbol ones/Unit 7/非-bronze.svg",
+    "ety": "",
+    "description": "Two mirrored diagonal strokes cross over each other, expressing negation or incorrectness through reversal."
+  },
+  "xiang": {
+    "meaning": "mutual; appearance",
+    "pinyin": "xiang",
+    "file": "Images/Characters/Unit 7/xiang.png",
+    "image": "Images/Symbol ones/Unit 7/相.PNG",
+    "ety": "",
+    "description": "An eye radical on the right peers beside a standing tree on the left, linking vision and reflection in mutual appearance."
+  },
+  "gen": {
+    "meaning": "stopping; tough",
+    "pinyin": "gen",
+    "file": "Images/Characters/Unit 7/gen.png",
+    "image": "Images/Symbol ones/Unit 7/艮-oracle.svg",
+    "ety": "",
+    "description": "A vertical hook stem rises above two short strokes, the hook halting upward motion to convey stopping and firmness."
+  },
+  "ji_three": {
+    "meaning": "self; oneself",
+    "pinyin": "ji",
+    "file": "Images/Characters/Unit 7/ji_three.png",
+    "image": "Images/Symbol ones/Unit 7/己-oracle.svg",
+    "ety": "",
+    "description": "A curling stroke loops around itself in compact form, symbolizing the self contained within its own boundaries."
+  },
+  "bao": {
+    "meaning": "wrap; to hold",
+    "pinyin": "bao",
+    "file": "Images/Characters/Unit 7/bao.png",
+    "image": "Images/Symbol ones/Unit 7/包-slip.svg",
+    "ety": "",
+    "description": "An enclosing stroke arches over a wrapped bundle, forming a single enclosure that holds contents inside."
+  },
+  "ding": {
+    "meaning": "small peg; robust male",
+    "pinyin": "ding",
+    "file": "Images/Characters/Unit 7/ding.png",
+    "image": "Images/Symbol ones/Unit 7/丁-silk.svg",
+    "ety": "",
+    "description": "A horizontal line rests atop a vertical stroke, the simple peg shape signifying a small nail or male spirit."
+  },
+  "xi": {
+    "meaning": "evening; dusk",
+    "pinyin": "xi",
+    "file": "Images/Characters/Unit 7/xi.png",
+    "image": "Images/Symbol ones/Unit 7/夕-oracle.svg",
+    "ety": "",
+    "description": "A sweeping left stroke curves downward, ending in a hook that evokes the setting sun at dusk."
+  },
+  "yi": {
+    "meaning": "one",
+    "pinyin": "yi",
+    "file": "Images/Characters/Unit 8/yi.png",
+    "image": "Images/Symbol ones/Unit 8/ACC-B00002.svg",
+    "ety": "",
+    "description": "A single horizontal stroke stands alone, representing the concept of one or unity."
+  },
+  "cun": {
+    "meaning": "inch; small unit",
+    "pinyin": "cun",
+    "file": "Images/Characters/Unit 8/cun.png",
+    "image": "Images/Symbol ones/Unit 8/寸-bronze.svg",
+    "ety": "",
+    "description": "A short vertical stroke capped by a tiny hook and base line marks a small measure, the inch unit."
+  }
+}
